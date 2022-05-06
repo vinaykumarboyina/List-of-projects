@@ -1,7 +1,7 @@
 import './header.css'
 
-const Header = () => (
-    <nav className="nav-header">
+const Header = () => (  
+    <nav className="navbar">
         <div className="nav-content">
             <p className="website-logo">VK</p>
             <ul className="nav-menu">
